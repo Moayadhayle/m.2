@@ -1,0 +1,22 @@
+.one{
+width: 200px;
+height: 200px;
+background-color: blue;
+/* border: 1px solid red;  */
+/* padding: 50px 20px ; */
+
+
+}
+.tow{
+
+    width: 200px;
+    height: 200px;
+    background-color:red;
+    /* padding: 50px 0px 0px 20px; */
+/* margin: top right bottom left ; */
+/* margin: 20px 30px; */
+/* display:block ; */
+/* display: inline; */ 
+/* display: inline-block; */
+background: fixed;
+}
